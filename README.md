@@ -18,3 +18,6 @@ Storyboarding and Ideation: Linda Xu, Ophelia White
 Script Writing: Ophelia White 
 Development: Ophelia White 
 All the suffering: Ophelia White
+
+Itch Io
+https://astral-scribe.itch.io/memories
