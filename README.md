@@ -5,7 +5,7 @@ the zip has the runnable game
 
 
 Credits again:
-all character and background art by "Noraneko Games" https://noranekogames.itch.io/ 
+all character and most background art by "Noraneko Games" https://noranekogames.itch.io/ 
 player: Nora https://noranekogames.itch.io/nora 
 bella: Natsumi https://noranekogames.itch.io/natsumi 
 circe: Miki https://noranekogames.itch.io/mikinewstyle
@@ -14,6 +14,7 @@ scream audio: Helena Caton
 
 Dev Team: 
 UI icons: Porter Barkle 
+Background art (some): Linda Xu
 Storyboarding and Ideation: Linda Xu, Ophelia White 
 Script Writing: Ophelia White 
 Development: Ophelia White 
