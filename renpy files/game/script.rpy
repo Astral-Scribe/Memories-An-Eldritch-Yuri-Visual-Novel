@@ -10,6 +10,7 @@ image bg school = "images/backgrounds/school.png"
 image bg darkspace school = "images/backgrounds/darkspace school.png"
 image bg darkspace exitportal = "images/backgrounds/darkspace exitportal.png"
 image bg darkspace judgement eyes = "images/backgrounds/darkspace judgement eyes.jpg"
+image bg darkspace eyes = "images/backgrounds/darkspace manyeyes.png"
 
 image b = "images/characters/bella/bella.png"
 image b attacked = "images/characters/bella/bella attacked.png"
@@ -147,7 +148,7 @@ label callaftercirce:
     c "n- nice to meet you too, [playername.lower()]..."
     c "i w- wanted to ask you..."
     c "d- do you want to be friends?"
-    P "Of course. I'd love to be friends with such a cutie~"
+    p "Of course. I'd love to be friends with such a cutie~"
     "The two of you decide to explore together, and come across a large collection of cats"
     "The cats lead you to an exit portal"
     show bg darkspace exitportal
@@ -233,7 +234,7 @@ label polyending:
     p "I guess this is it..."
     c "y-yea..."
     b "Finally."
-    c "hey [playername.lower]..."
+    c "hey [playername.lower()]..."
     c "i- i like you..."
     show c kiss
     show p blush
@@ -260,7 +261,7 @@ label polyending:
 label ignorethesound:
     "You find a bunch of cats"
     "They lead you to an exit, and you escape, alive but alone"
-
+    hide p
     show bg darkspace judgement eyes
     "So once again, you abandoned them both..."
     "Guess you can't change the past..."
